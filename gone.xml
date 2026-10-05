@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<offers>
+  <offer id="gone-cs1840">
+    <vendorCode>CS1840</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-ps20e">
+    <vendorCode>PS20-E</vendorCode>
+    <brand>BOSTITCH</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dt20666">
+    <vendorCode>DT20666</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dw294">
+    <vendorCode>DW294</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dwf4000250">
+    <vendorCode>DWF4000250</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-047681">
+    <vendorCode>0-47-681</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-192762">
+    <vendorCode>1-92-762</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-1gs15dt">
+    <vendorCode>1-GS15DT</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-fmht062647">
+    <vendorCode>FMHT0-62647</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-fmst175769">
+    <vendorCode>FMST1-75769</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sfmcs701m1sfmcs600b">
+    <vendorCode>SFMCS701M1+SFMCS600B</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sta39252">
+    <vendorCode>STA39252</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sta39257">
+    <vendorCode>STA39257</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sta60490">
+    <vendorCode>STA60490</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sta80300">
+    <vendorCode>STA80300</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sta80301">
+    <vendorCode>STA80301</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sta80302">
+    <vendorCode>STA80302</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sta80303">
+    <vendorCode>STA80303</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sta88567">
+    <vendorCode>STA88567</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sbc2006uni">
+    <vendorCode>SBC2006-UNI</vendorCode>
+    <brand>Sequoia</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-splm3040">
+    <vendorCode>SPLM3040</vendorCode>
+    <brand>Sequoia</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-splm5100">
+    <vendorCode>SPLM5100</vendorCode>
+    <brand>Sequoia</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+</offers>
