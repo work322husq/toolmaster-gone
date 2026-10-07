@@ -1,8 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
 <offers>
+  <offer id="gone-bdhr26kr">
+    <vendorCode>BDHR26KR</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-bxaf5500e">
+    <vendorCode>BXAF5500E</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-bxdf2100e">
+    <vendorCode>BXDF2100E</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-bxgr1000e">
+    <vendorCode>BXGR1000E</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-bxgr2200e">
+    <vendorCode>BXGR2200E</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-bxhb1501e">
+    <vendorCode>BXHB1501E</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-bxje200e">
+    <vendorCode>BXJE200E</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-bxss2200e">
+    <vendorCode>BXSS2200E</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-cs1840">
     <vendorCode>CS1840</vendorCode>
     <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-mrc6e">
+    <vendorCode>MRC6-E</vendorCode>
+    <brand>BOSTITCH</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="gone-ps20e">
@@ -10,8 +55,48 @@
     <brand>BOSTITCH</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-5601400023">
+    <vendorCode>5601400023</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dce079d1g">
+    <vendorCode>DCE079D1G</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dnbsb1638s316z">
+    <vendorCode>DNBSB1638S316Z</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dt0109">
+    <vendorCode>DT0109</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dt50015">
+    <vendorCode>DT50015</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dt7440">
+    <vendorCode>DT7440</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dt8192l">
+    <vendorCode>DT8192L</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-dw294">
     <vendorCode>DW294</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dw331kt">
+    <vendorCode>DW331KT</vendorCode>
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -20,8 +105,33 @@
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-dwst835221">
+    <vendorCode>DWST83522-1</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dwst835241">
+    <vendorCode>DWST83524-1</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dxva192558">
+    <vendorCode>DXVA19-2558</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-047443">
+    <vendorCode>0-47-443</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-047681">
     <vendorCode>0-47-681</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-113323">
+    <vendorCode>1-13-323</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -35,8 +145,28 @@
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-217201">
+    <vendorCode>2-17-201</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-fmc710d2">
+    <vendorCode>FMC710D2</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-fmht062647">
     <vendorCode>FMHT0-62647</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-fmht064985">
+    <vendorCode>FMHT0-64985</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-fmht425591">
+    <vendorCode>FMHT42559-1</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -45,8 +175,18 @@
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-sfmcd711c2k">
+    <vendorCode>SFMCD711C2K</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-sfmcs701m1sfmcs600b">
     <vendorCode>SFMCS701M1+SFMCS600B</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sta39032">
+    <vendorCode>STA39032</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -87,6 +227,36 @@
   </offer>
   <offer id="gone-sta88567">
     <vendorCode>STA88567</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-stht372393">
+    <vendorCode>STHT37239-3</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-stht372403">
+    <vendorCode>STHT37240-3</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-stht808800">
+    <vendorCode>STHT80880-0</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-stmt728088">
+    <vendorCode>STMT72808-8</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-stst407111">
+    <vendorCode>STST40711-1</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-stst757851">
+    <vendorCode>STST75785-1</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
