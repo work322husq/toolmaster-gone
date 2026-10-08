@@ -50,11 +50,6 @@
     <brand>BOSTITCH</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
-  <offer id="gone-ps20e">
-    <vendorCode>PS20-E</vendorCode>
-    <brand>BOSTITCH</brand>
-    <stock_quantity>0</stock_quantity>
-  </offer>
   <offer id="gone-5601400023">
     <vendorCode>5601400023</vendorCode>
     <brand>DeWALT</brand>
@@ -72,6 +67,11 @@
   </offer>
   <offer id="gone-dt0109">
     <vendorCode>DT0109</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dt3507">
+    <vendorCode>DT3507</vendorCode>
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -225,6 +225,11 @@
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-sta88554">
+    <vendorCode>STA88554</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-sta88567">
     <vendorCode>STA88567</vendorCode>
     <brand>STANLEY</brand>
@@ -242,11 +247,6 @@
   </offer>
   <offer id="gone-stht808800">
     <vendorCode>STHT80880-0</vendorCode>
-    <brand>STANLEY</brand>
-    <stock_quantity>0</stock_quantity>
-  </offer>
-  <offer id="gone-stmt728088">
-    <vendorCode>STMT72808-8</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
