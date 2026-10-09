@@ -50,6 +50,11 @@
     <brand>BOSTITCH</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-rh28r50">
+    <vendorCode>RH28R50</vendorCode>
+    <brand>BOSTITCH</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-5601400023">
     <vendorCode>5601400023</vendorCode>
     <brand>DeWALT</brand>
