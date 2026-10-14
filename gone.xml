@@ -110,6 +110,11 @@
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-dws5029">
+    <vendorCode>DWS5029</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-dwst835221">
     <vendorCode>DWST83522-1</vendorCode>
     <brand>DeWALT</brand>
@@ -167,6 +172,11 @@
   </offer>
   <offer id="gone-fmht064985">
     <vendorCode>FMHT0-64985</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-fmht1037611">
+    <vendorCode>FMHT10376-1_1</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
