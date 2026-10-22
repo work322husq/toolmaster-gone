@@ -15,6 +15,11 @@
     <brand>BLACK+DECKER</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-bxfpa600e">
+    <vendorCode>BXFPA600E</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-bxgr1000e">
     <vendorCode>BXGR1000E</vendorCode>
     <brand>BLACK+DECKER</brand>
@@ -40,6 +45,11 @@
     <brand>BLACK+DECKER</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-bxvms600e">
+    <vendorCode>BXVMS600E</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-cs1840">
     <vendorCode>CS1840</vendorCode>
     <brand>BLACK+DECKER</brand>
@@ -60,8 +70,13 @@
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
-  <offer id="gone-dce079d1g">
-    <vendorCode>DCE079D1G</vendorCode>
+  <offer id="gone-dcb548">
+    <vendorCode>DCB548</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-ddf6755406">
+    <vendorCode>DDF6755406</vendorCode>
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -257,6 +272,11 @@
   </offer>
   <offer id="gone-sta88567">
     <vendorCode>STA88567</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-stht203691">
+    <vendorCode>STHT20369-1</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
