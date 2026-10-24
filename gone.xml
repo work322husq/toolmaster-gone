@@ -145,6 +145,31 @@
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-ewca12510">
+    <vendorCode>EWCA-125-10</vendorCode>
+    <brand>EnerSol</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-ewca12512">
+    <vendorCode>EWCA-125-12</vendorCode>
+    <brand>EnerSol</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-ewca12516">
+    <vendorCode>EWCA-125-16</vendorCode>
+    <brand>EnerSol</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-ewca12520">
+    <vendorCode>EWCA-125-20</vendorCode>
+    <brand>EnerSol</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-ewca23020">
+    <vendorCode>EWCA-230-20</vendorCode>
+    <brand>EnerSol</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-047443">
     <vendorCode>0-47-443</vendorCode>
     <brand>STANLEY</brand>
@@ -157,6 +182,11 @@
   </offer>
   <offer id="gone-113323">
     <vendorCode>1-13-323</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-192067">
+    <vendorCode>1-92-067</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -175,6 +205,11 @@
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-6gr15">
+    <vendorCode>6-GR15</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-fmc710d2">
     <vendorCode>FMC710D2</vendorCode>
     <brand>STANLEY</brand>
@@ -187,6 +222,11 @@
   </offer>
   <offer id="gone-fmht064985">
     <vendorCode>FMHT0-64985</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-fmht083242">
+    <vendorCode>FMHT0-83242</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
