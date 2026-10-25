@@ -75,6 +75,11 @@
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-dce079d1g">
+    <vendorCode>DCE079D1G</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-ddf6755406">
     <vendorCode>DDF6755406</vendorCode>
     <brand>DeWALT</brand>
@@ -175,6 +180,11 @@
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-047465">
+    <vendorCode>0-47-465</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-047681">
     <vendorCode>0-47-681</vendorCode>
     <brand>STANLEY</brand>
@@ -182,6 +192,11 @@
   </offer>
   <offer id="gone-113323">
     <vendorCode>1-13-323</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-157530">
+    <vendorCode>1-57-530</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
