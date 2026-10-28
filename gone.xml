@@ -55,6 +55,11 @@
     <brand>BLACK+DECKER</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-ww100">
+    <vendorCode>WW100</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-mrc6e">
     <vendorCode>MRC6-E</vendorCode>
     <brand>BOSTITCH</brand>
