@@ -75,6 +75,16 @@
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-d21570k">
+    <vendorCode>D21570K</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dcb548">
+    <vendorCode>DCB548</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-dce079d1g">
     <vendorCode>DCE079D1G</vendorCode>
     <brand>DeWALT</brand>
@@ -195,11 +205,6 @@
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
-  <offer id="gone-157530">
-    <vendorCode>1-57-530</vendorCode>
-    <brand>STANLEY</brand>
-    <stock_quantity>0</stock_quantity>
-  </offer>
   <offer id="gone-192067">
     <vendorCode>1-92-067</vendorCode>
     <brand>STANLEY</brand>
@@ -267,6 +272,11 @@
   </offer>
   <offer id="gone-sfmcs701m1sfmcs600b">
     <vendorCode>SFMCS701M1+SFMCS600B</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sta26115">
+    <vendorCode>STA26115</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -362,6 +372,21 @@
   </offer>
   <offer id="gone-sbc2006uni">
     <vendorCode>SBC2006-UNI</vendorCode>
+    <brand>Sequoia</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-spb4325">
+    <vendorCode>SPB4325</vendorCode>
+    <brand>Sequoia</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-spb5230c">
+    <vendorCode>SPB5230C</vendorCode>
+    <brand>Sequoia</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-spb5230pro">
+    <vendorCode>SPB5230PRO</vendorCode>
     <brand>Sequoia</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
