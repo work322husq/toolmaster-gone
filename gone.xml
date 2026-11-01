@@ -80,6 +80,11 @@
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-dcm565n">
+    <vendorCode>DCM565N</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-ddf6755406">
     <vendorCode>DDF6755406</vendorCode>
     <brand>DeWALT</brand>
