@@ -75,6 +75,11 @@
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-d21570k">
+    <vendorCode>D21570K</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-dce079d1g">
     <vendorCode>DCE079D1G</vendorCode>
     <brand>DeWALT</brand>
