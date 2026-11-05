@@ -80,6 +80,11 @@
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-dcb548">
+    <vendorCode>DCB548</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-dce079d1g">
     <vendorCode>DCE079D1G</vendorCode>
     <brand>DeWALT</brand>
@@ -188,6 +193,11 @@
   <offer id="gone-ewca23020">
     <vendorCode>EWCA-230-20</vendorCode>
     <brand>EnerSol</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-047100">
+    <vendorCode>0-47-100</vendorCode>
+    <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="gone-047443">
