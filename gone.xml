@@ -220,6 +220,11 @@
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-192065">
+    <vendorCode>1-92-065</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-192067">
     <vendorCode>1-92-067</vendorCode>
     <brand>STANLEY</brand>
