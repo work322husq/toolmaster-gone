@@ -375,6 +375,11 @@
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-stht775941">
+    <vendorCode>STHT77594-1</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-stht808800">
     <vendorCode>STHT80880-0</vendorCode>
     <brand>STANLEY</brand>
