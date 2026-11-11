@@ -260,6 +260,11 @@
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-fmht062649">
+    <vendorCode>FMHT0-62649</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-fmht064985">
     <vendorCode>FMHT0-64985</vendorCode>
     <brand>STANLEY</brand>
@@ -287,6 +292,11 @@
   </offer>
   <offer id="gone-sfmcd711c2k">
     <vendorCode>SFMCD711C2K</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sfmck469m2">
+    <vendorCode>SFMCK469M2</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -357,6 +367,11 @@
   </offer>
   <offer id="gone-sta88567">
     <vendorCode>STA88567</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-stht047244">
+    <vendorCode>STHT0-47244</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
