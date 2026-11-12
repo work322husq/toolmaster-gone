@@ -220,6 +220,11 @@
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-170316">
+    <vendorCode>1-70-316</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-192065">
     <vendorCode>1-92-065</vendorCode>
     <brand>STANLEY</brand>
@@ -372,6 +377,11 @@
   </offer>
   <offer id="gone-stht047244">
     <vendorCode>STHT0-47244</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-stht170429">
+    <vendorCode>STHT1-70429</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
