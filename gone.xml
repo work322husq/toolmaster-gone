@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <offers>
+  <offer id="gone-bdcsfl20c">
+    <vendorCode>BDCSFL20C</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-bdhr26kr">
     <vendorCode>BDHR26KR</vendorCode>
     <brand>BLACK+DECKER</brand>
@@ -7,6 +12,11 @@
   </offer>
   <offer id="gone-bxaf5500e">
     <vendorCode>BXAF5500E</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-bxco870e">
+    <vendorCode>BXCO870E</vendorCode>
     <brand>BLACK+DECKER</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -42,6 +52,11 @@
   </offer>
   <offer id="gone-bxss2200e">
     <vendorCode>BXSS2200E</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-bxss2400e">
+    <vendorCode>BXSS2400E</vendorCode>
     <brand>BLACK+DECKER</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -212,6 +227,11 @@
   </offer>
   <offer id="gone-047681">
     <vendorCode>0-47-681</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-065340">
+    <vendorCode>0-65-340</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
