@@ -310,6 +310,11 @@
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-fmst171181">
+    <vendorCode>FMST1-71181</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-fmst175769">
     <vendorCode>FMST1-75769</vendorCode>
     <brand>STANLEY</brand>
