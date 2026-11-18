@@ -160,6 +160,11 @@
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-dwd522ks">
+    <vendorCode>DWD522KS</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-dwf4000250">
     <vendorCode>DWF4000250</vendorCode>
     <brand>DeWALT</brand>
@@ -242,6 +247,11 @@
   </offer>
   <offer id="gone-170316">
     <vendorCode>1-70-316</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-192064">
+    <vendorCode>1-92-064</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -447,6 +457,11 @@
   </offer>
   <offer id="gone-sbc2006uni">
     <vendorCode>SBC2006-UNI</vendorCode>
+    <brand>Sequoia</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sbs12li">
+    <vendorCode>SBS12Li</vendorCode>
     <brand>Sequoia</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
