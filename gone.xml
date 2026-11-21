@@ -105,6 +105,11 @@
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-dcf86mm1t">
+    <vendorCode>DCF86MM1T</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-dcm565n">
     <vendorCode>DCM565N</vendorCode>
     <brand>DeWALT</brand>
@@ -157,6 +162,16 @@
   </offer>
   <offer id="gone-dw331kt">
     <vendorCode>DW331KT</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dwc1470043231">
+    <vendorCode>DWC147-004-3231</vendorCode>
+    <brand>DeWALT</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-dwc1470043431">
+    <vendorCode>DWC147-004-3431</vendorCode>
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
