@@ -75,6 +75,11 @@
     <brand>BLACK+DECKER</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-fsmh13151sm">
+    <vendorCode>FSMH13151SM</vendorCode>
+    <brand>BLACK+DECKER</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-ww100">
     <vendorCode>WW100</vendorCode>
     <brand>BLACK+DECKER</brand>
@@ -440,6 +445,11 @@
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-sta88564">
+    <vendorCode>STA88564</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-sta88567">
     <vendorCode>STA88567</vendorCode>
     <brand>STANLEY</brand>
@@ -488,6 +498,16 @@
   <offer id="gone-stst757851">
     <vendorCode>STST75785-1</vendorCode>
     <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-2999004200">
+    <vendorCode>299900420_0</vendorCode>
+    <brand>STIGA</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-st8051ae11119310011111931101">
+    <vendorCode>ST8051AE + 1111-9310-01 + 1111-9311-01</vendorCode>
+    <brand>STIGA</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="gone-sbc2006uni">
