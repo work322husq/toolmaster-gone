@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <offers>
-  <offer id="gone-a7065">
-    <vendorCode>A7065</vendorCode>
-    <brand>BLACK+DECKER</brand>
-    <stock_quantity>0</stock_quantity>
-  </offer>
   <offer id="gone-bdcsfl20c">
     <vendorCode>BDCSFL20C</vendorCode>
     <brand>BLACK+DECKER</brand>
@@ -127,11 +122,6 @@
   </offer>
   <offer id="gone-dcn680n">
     <vendorCode>DCN680N</vendorCode>
-    <brand>DeWALT</brand>
-    <stock_quantity>0</stock_quantity>
-  </offer>
-  <offer id="gone-ddf6755406">
-    <vendorCode>DDF6755406</vendorCode>
     <brand>DeWALT</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -325,11 +315,6 @@
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
-  <offer id="gone-fmht062647">
-    <vendorCode>FMHT0-62647</vendorCode>
-    <brand>STANLEY</brand>
-    <stock_quantity>0</stock_quantity>
-  </offer>
   <offer id="gone-fmht062649">
     <vendorCode>FMHT0-62649</vendorCode>
     <brand>STANLEY</brand>
@@ -497,6 +482,11 @@
   </offer>
   <offer id="gone-stst757851">
     <vendorCode>STST75785-1</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="gone-sy345c">
+    <vendorCode>SY345C</vendorCode>
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
