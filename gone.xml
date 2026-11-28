@@ -365,6 +365,11 @@
     <brand>STANLEY</brand>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="gone-shr263k">
+    <vendorCode>SHR263K</vendorCode>
+    <brand>STANLEY</brand>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="gone-sta26110">
     <vendorCode>STA26110</vendorCode>
     <brand>STANLEY</brand>
